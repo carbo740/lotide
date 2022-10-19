@@ -17,7 +17,7 @@ const eqArrays = function(array1, array2){
   return true;
 };
 
-const without = function(source, itemsToRemove){
+const without = function(source, itemsToRemove){ 
   let filteredOutput = source.filter((a) => itemsToRemove.indexOf(a)<0);
 
   return filteredOutput;
