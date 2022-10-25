@@ -43,5 +43,7 @@ const obj3 = {
   age: 22
 }
 
+module.exports = assertObjectsEqual;
+
 assertObjectsEqual(obj1, obj2);
 assertObjectsEqual(obj1, obj3);

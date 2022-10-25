@@ -36,3 +36,5 @@ console.log(results1);
 assertArraysEqual(map(words, word => word[word.length-1]), ["d", "l", "o", "r", "m"]);
 assertArraysEqual(map(words, word => words.indexOf(word)), [0, 1, 2, 3, 4]);
 assertArraysEqual(map(words, word => word = "Hello"), ["Hello", "Hello", "Hello", "Hello", "Hello"]);
+
+module.exports = map;

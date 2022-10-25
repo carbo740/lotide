@@ -21,4 +21,4 @@ const countLetters = function(letters) {
   return output;
 };
 
-console.log(countLetters("hellooo world"));
+module.exports = countLetters;
