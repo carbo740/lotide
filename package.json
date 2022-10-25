@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@carbo740/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "Lighthouse Labs Lotide Library Clone",
+  "main": "main",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/carbo740/lotide.git"
   },
-  "author": "",
+  "author": "Charles Arboleda <charlesarboleda_@hotmail.com> (https://github.com/carbo740)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/carbo740/lotide/issues"
